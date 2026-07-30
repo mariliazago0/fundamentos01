@@ -1,0 +1,76 @@
+
+ANÁLISE DE INSTABILIDADE POLÍTICA - NOTÍCIAS AGÊNCIA BRASIL
+
+INSTRUÇÕES GERAIS:
+
+Para cada período de 15 dias, realize uma análise qualitativa (como um humano faria) para determinar se as notícias descrevem uma situação de instabilidade política.
+
+ELEMENTOS DE INSTABILIDADE POLÍTICA A SEREM BUSCADOS:
+
+Crises e Conflitos:
+- Crises institucionais
+- Conflitos entre atores políticos
+- Impasses de governabilidade
+- Crises parlamentares/presidenciais
+
+Mudanças e Reformas:
+- Tentativas de alteração da ordem constitucional
+- Reformas políticas controversas
+- Reestruturações governamentais abruptas
+
+Questões de Legitimidade:
+- Contestação da legitimidade de governos ou eleições
+- Denúncias de corrupção
+- Questionamentos sobre a governabilidade
+
+Mobilização e Protesto:
+- Protestos ou mobilizações com impacto político relevante
+- Movimentos sociais com objetivos políticos
+- Atos de desobediência civil
+
+Violência e Segurança:
+- Violência política
+- Golpes militares ou tentativas
+- Confiscos de poder
+- Atentados terroristas
+
+Sucessão e Autoridade:
+- Crises sucessórias
+- Violação de limites de mandato
+- Desrespeito a regras constitucionais
+
+ELEMENTOS DE ESTABILIDADE / ROTINA POLÍTICA (NÃO CLASSIFICAR):
+
+Disputas Rutinárias:
+- Debates legislativos regulares
+- Divergências partidárias comuns
+
+Decisões Administrativas:
+- Nomeações ministeriais
+- Anúncios governamentais
+
+Questões Não Políticas:
+- Decisões econômicas, diplomáticas, militares ou judiciais (a menos que integrem crise mais ampla)
+
+MÉTODO DE ANÁLISE (APENAS LEIA):
+
+1. LEIA a notícia por completo
+2. IDENTIFIQUE o tema principal e contexto geral
+3. BUSQUE por indicadores de: crises, conflitos, reformas constitucional, mobilização, violência, questões de legitimidade
+4. AVALIE se os eventos representam ameaça à estabilidade do sistema político, governabilidade, autoridade do governo ou instituições
+5. CLASSIFIQUE como:
+   - INSTABILIDADE POLÍTICA: se a notícia descreve uma situação que pode ser caracterizada como instabilidade política
+   - ESTABILIDADE: se a notícia trata de questões políticas rotineiras, disputas comuns, ou decisões administrativas
+
+IMPORTANTE:
+- Seja criterioso; não classifique demais
+- Não confie apenas em palavras-chave; avalie contexto e relação entre eventos
+- Esteja preparado para justificar cada classificação
+- Consulte o contexto geral da notícia
+
+FORMATO DE SAÍDA (CSV):
+
+period;start_date;end_date;total_articles;instability_articles;stability_articles;political_instabilidade_percentage;sample_titles;evidence_descriptions
+
+Exemplo:
+2017-7-days1-15;10/07/2017;10/07/2017;7;1;6;14.29%;Saúde libera R$ 20 milhões...;Análise qualitativa necessária para identificar instabilidade política

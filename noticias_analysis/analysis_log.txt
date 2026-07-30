@@ -1,0 +1,1012 @@
+ANÁLISE DE INSTABILIDADE POLÍTICA - 30/07/2026 12:25:38
+============================================================
+Total de períodos analisados: 167
+Total de artigos analisados: 119891
+Total de artigos com instabilidade política: 74864
+Percentual geral de instabilidade: 62.44%
+Tempo de execução: 31.90 segundos
+============================================================
+
+Análises por período:
+
+Período 10/07/2017 - 24/07/2017 (7 artigos):
+  Artigos com instabilidade política: 2
+  Artigos com estabilidade: 5
+  Percentual de instabilidade: 28.57%
+  Resumo: Detectada instabilidade política em 2 de 7 artigos (28.6%). Principais indicadores: ["Palavras 'diário' encontradas (indicador de estabilidade)", "Palavra-chave 'parlamentar' encontrada (categoria: governabilidade)"]
+
+Período 06/01/2018 - 20/01/2018 (28 artigos):
+  Artigos com instabilidade política: 18
+  Artigos com estabilidade: 10
+  Percentual de instabilidade: 64.29%
+  Resumo: Detectada instabilidade política em 18 de 28 artigos (64.3%). Principais indicadores: ["Palavra-chave 'protesto' encontrada (categoria: protestos)", "Palavra-chave 'crise' encontrada (categoria: crises)", "Palavra-chave 'urgente' encontrada (categoria: crises)"]
+
+Período 21/01/2018 - 04/02/2018 (733 artigos):
+  Artigos com instabilidade política: 464
+  Artigos com estabilidade: 269
+  Percentual de instabilidade: 63.30%
+  Resumo: Detectada instabilidade política em 464 de 733 artigos (63.3%). Principais indicadores: ["Palavra-chave 'mudança' encontrada (categoria: mudanças)", "Palavra-chave 'violência' encontrada (categoria: violencia)", "Palavra-chave 'mudança' encontrada (categoria: mudanças)"]
+
+Período 05/02/2018 - 19/02/2018 (832 artigos):
+  Artigos com instabilidade política: 521
+  Artigos com estabilidade: 311
+  Percentual de instabilidade: 62.62%
+  Resumo: Detectada instabilidade política em 521 de 832 artigos (62.6%). Principais indicadores: ["Palavra-chave 'disputa' encontrada (categoria: conflitos)", "Palavra-chave 'parlamentar' encontrada (categoria: governabilidade)", "Palavra-chave 'mudança' encontrada (categoria: mudanças)"]
+
+Período 20/02/2018 - 06/03/2018 (851 artigos):
+  Artigos com instabilidade política: 560
+  Artigos com estabilidade: 291
+  Percentual de instabilidade: 65.80%
+  Resumo: Detectada instabilidade política em 560 de 851 artigos (65.8%). Principais indicadores: ["Palavra-chave 'crise' encontrada (categoria: crises)", "Palavra-chave 'parlamentar' encontrada (categoria: governabilidade)", "Palavra-chave 'militar' encontrada (categoria: golpes)"]
+
+Período 07/03/2018 - 21/03/2018 (833 artigos):
+  Artigos com instabilidade política: 567
+  Artigos com estabilidade: 266
+  Percentual de instabilidade: 68.07%
+  Resumo: Detectada instabilidade política em 567 de 833 artigos (68.1%). Principais indicadores: ["Palavra-chave 'conflito' encontrada (categoria: conflitos)", "Palavra-chave 'violência' encontrada (categoria: violencia)", "Palavra-chave 'crime' encontrada (categoria: violencia)"]
+
+Período 22/03/2018 - 05/04/2018 (789 artigos):
+  Artigos com instabilidade política: 523
+  Artigos com estabilidade: 266
+  Percentual de instabilidade: 66.29%
+  Resumo: Detectada instabilidade política em 523 de 789 artigos (66.3%). Principais indicadores: ["Palavra-chave 'emergência' encontrada (categoria: crises)", "Palavra-chave 'militar' encontrada (categoria: golpes)", "Palavra-chave 'mudança' encontrada (categoria: mudanças)"]
+
+Período 06/04/2018 - 20/04/2018 (876 artigos):
+  Artigos com instabilidade política: 621
+  Artigos com estabilidade: 255
+  Percentual de instabilidade: 70.89%
+  Resumo: Detectada instabilidade política em 621 de 876 artigos (70.9%). Principais indicadores: ["Palavra-chave 'incidente' encontrada (categoria: golpes)", "Palavra-chave 'tensão' encontrada (categoria: conflitos)", "Palavra-chave 'impasse' encontrada (categoria: governabilidade)"]
+
+Período 21/04/2018 - 05/05/2018 (753 artigos):
+  Artigos com instabilidade política: 483
+  Artigos com estabilidade: 270
+  Percentual de instabilidade: 64.14%
+  Resumo: Detectada instabilidade política em 483 de 753 artigos (64.1%). Principais indicadores: ["Palavra-chave 'tensão' encontrada (categoria: conflitos)", "Palavra-chave 'incidente' encontrada (categoria: golpes)", "Palavra-chave 'disputa' encontrada (categoria: conflitos)"]
+
+Período 06/05/2018 - 20/05/2018 (839 artigos):
+  Artigos com instabilidade política: 582
+  Artigos com estabilidade: 257
+  Percentual de instabilidade: 69.37%
+  Resumo: Detectada instabilidade política em 582 de 839 artigos (69.4%). Principais indicadores: ["Palavra-chave 'parlamentar' encontrada (categoria: governabilidade)", "Palavra-chave 'crise' encontrada (categoria: crises)", 'Contexto político negativo detectado na análise qualitativa']
+
+Período 21/05/2018 - 04/06/2018 (1167 artigos):
+  Artigos com instabilidade política: 823
+  Artigos com estabilidade: 344
+  Percentual de instabilidade: 70.52%
+  Resumo: Detectada instabilidade política em 823 de 1167 artigos (70.5%). Principais indicadores: ["Palavra-chave 'emergência' encontrada (categoria: crises)", "Palavra-chave 'mudança' encontrada (categoria: mudanças)", "Palavra-chave 'crise' encontrada (categoria: crises)"]
+
+Período 05/06/2018 - 19/06/2018 (992 artigos):
+  Artigos com instabilidade política: 617
+  Artigos com estabilidade: 375
+  Percentual de instabilidade: 62.20%
+  Resumo: Detectada instabilidade política em 617 de 992 artigos (62.2%). Principais indicadores: ["Palavra-chave 'crise' encontrada (categoria: crises)", "Palavra-chave 'emergência' encontrada (categoria: crises)", "Palavra-chave 'crise' encontrada (categoria: crises)"]
+
+Período 20/06/2018 - 04/07/2018 (1030 artigos):
+  Artigos com instabilidade política: 647
+  Artigos com estabilidade: 383
+  Percentual de instabilidade: 62.82%
+  Resumo: Detectada instabilidade política em 647 de 1030 artigos (62.8%). Principais indicadores: ["Palavra-chave 'militar' encontrada (categoria: golpes)", "Palavra-chave 'crime' encontrada (categoria: violencia)", "Palavra-chave 'colapso' encontrada (categoria: crises)"]
+
+Período 05/07/2018 - 19/07/2018 (864 artigos):
+  Artigos com instabilidade política: 513
+  Artigos com estabilidade: 351
+  Percentual de instabilidade: 59.38%
+  Resumo: Detectada instabilidade política em 513 de 864 artigos (59.4%). Principais indicadores: ["Palavra-chave 'militar' encontrada (categoria: golpes)", "Palavra-chave 'crise' encontrada (categoria: crises)", "Palavra-chave 'incidente' encontrada (categoria: golpes)"]
+
+Período 20/07/2018 - 03/08/2018 (905 artigos):
+  Artigos com instabilidade política: 531
+  Artigos com estabilidade: 374
+  Percentual de instabilidade: 58.67%
+  Resumo: Detectada instabilidade política em 531 de 905 artigos (58.7%). Principais indicadores: ["Palavra-chave 'violência' encontrada (categoria: violencia)", "Palavra-chave 'crise' encontrada (categoria: crises)", "Palavra-chave 'tensão' encontrada (categoria: conflitos)"]
+
+Período 04/08/2018 - 18/08/2018 (827 artigos):
+  Artigos com instabilidade política: 534
+  Artigos com estabilidade: 293
+  Percentual de instabilidade: 64.57%
+  Resumo: Detectada instabilidade política em 534 de 827 artigos (64.6%). Principais indicadores: ["Palavra-chave 'disputa' encontrada (categoria: conflitos)", "Palavra-chave 'golpe' encontrada (categoria: golpes)", "Palavra-chave 'disputa' encontrada (categoria: conflitos)"]
+
+Período 19/08/2018 - 02/09/2018 (873 artigos):
+  Artigos com instabilidade política: 581
+  Artigos com estabilidade: 292
+  Percentual de instabilidade: 66.55%
+  Resumo: Detectada instabilidade política em 581 de 873 artigos (66.6%). Principais indicadores: ["Palavra-chave 'violência' encontrada (categoria: violencia)", "Palavra-chave 'disputa' encontrada (categoria: conflitos)", "Palavra-chave 'crise' encontrada (categoria: crises)"]
+
+Período 03/09/2018 - 17/09/2018 (845 artigos):
+  Artigos com instabilidade política: 502
+  Artigos com estabilidade: 343
+  Percentual de instabilidade: 59.41%
+  Resumo: Detectada instabilidade política em 502 de 845 artigos (59.4%). Principais indicadores: ["Palavra-chave 'choque' encontrada (categoria: conflitos)", "Palavra-chave 'crise' encontrada (categoria: crises)", "Palavra-chave 'militar' encontrada (categoria: golpes)"]
+
+Período 18/09/2018 - 02/10/2018 (877 artigos):
+  Artigos com instabilidade política: 538
+  Artigos com estabilidade: 339
+  Percentual de instabilidade: 61.35%
+  Resumo: Detectada instabilidade política em 538 de 877 artigos (61.3%). Principais indicadores: ["Palavra-chave 'reforma' encontrada (categoria: mudanças)", "Palavra-chave 'militar' encontrada (categoria: golpes)", "Palavra-chave 'impasse' encontrada (categoria: governabilidade)"]
+
+Período 03/10/2018 - 17/10/2018 (975 artigos):
+  Artigos com instabilidade política: 698
+  Artigos com estabilidade: 277
+  Percentual de instabilidade: 71.59%
+  Resumo: Detectada instabilidade política em 698 de 975 artigos (71.6%). Principais indicadores: ["Palavra-chave 'tensão' encontrada (categoria: conflitos)", "Palavra-chave 'crise' encontrada (categoria: crises)", "Palavra-chave 'alteração' encontrada (categoria: mudanças)"]
+
+Período 18/10/2018 - 01/11/2018 (1047 artigos):
+  Artigos com instabilidade política: 717
+  Artigos com estabilidade: 330
+  Percentual de instabilidade: 68.48%
+  Resumo: Detectada instabilidade política em 717 de 1047 artigos (68.5%). Principais indicadores: ["Palavra-chave 'crime' encontrada (categoria: violencia)", "Palavra-chave 'militar' encontrada (categoria: golpes)", "Palavra-chave 'crime' encontrada (categoria: violencia)"]
+
+Período 02/11/2018 - 16/11/2018 (812 artigos):
+  Artigos com instabilidade política: 539
+  Artigos com estabilidade: 273
+  Percentual de instabilidade: 66.38%
+  Resumo: Detectada instabilidade política em 539 de 812 artigos (66.4%). Principais indicadores: ["Palavra-chave 'intervenção' encontrada (categoria: golpes)", "Palavra-chave 'emergência' encontrada (categoria: crises)", "Palavra-chave 'disputa' encontrada (categoria: conflitos)"]
+
+Período 17/11/2018 - 01/12/2018 (902 artigos):
+  Artigos com instabilidade política: 565
+  Artigos com estabilidade: 337
+  Percentual de instabilidade: 62.64%
+  Resumo: Detectada instabilidade política em 565 de 902 artigos (62.6%). Principais indicadores: ["Palavra-chave 'reforma' encontrada (categoria: mudanças)", "Palavra-chave 'mudança' encontrada (categoria: mudanças)", "Palavra-chave 'crime' encontrada (categoria: violencia)"]
+
+Período 02/12/2018 - 16/12/2018 (917 artigos):
+  Artigos com instabilidade política: 618
+  Artigos com estabilidade: 299
+  Percentual de instabilidade: 67.39%
+  Resumo: Detectada instabilidade política em 618 de 917 artigos (67.4%). Principais indicadores: ["Palavra-chave 'violência' encontrada (categoria: violencia)", "Palavra-chave 'emergência' encontrada (categoria: crises)", "Palavra-chave 'conflito' encontrada (categoria: conflitos)"]
+
+Período 17/12/2018 - 31/12/2018 (674 artigos):
+  Artigos com instabilidade política: 408
+  Artigos com estabilidade: 266
+  Percentual de instabilidade: 60.53%
+  Resumo: Detectada instabilidade política em 408 de 674 artigos (60.5%). Principais indicadores: ["Palavra-chave 'atentado' encontrada (categoria: golpes)", "Palavra-chave 'crime' encontrada (categoria: violencia)", "Palavra-chave 'militar' encontrada (categoria: golpes)"]
+
+Período 01/01/2019 - 15/01/2019 (703 artigos):
+  Artigos com instabilidade política: 451
+  Artigos com estabilidade: 252
+  Percentual de instabilidade: 64.15%
+  Resumo: Detectada instabilidade política em 451 de 703 artigos (64.2%). Principais indicadores: ["Palavra-chave 'parlamentar' encontrada (categoria: governabilidade)", "Palavra-chave 'presidencial' encontrada (categoria: eleições)", "Palavra-chave 'parlamentar' encontrada (categoria: governabilidade)"]
+
+Período 16/01/2019 - 30/01/2019 (790 artigos):
+  Artigos com instabilidade política: 487
+  Artigos com estabilidade: 303
+  Percentual de instabilidade: 61.65%
+  Resumo: Detectada instabilidade política em 487 de 790 artigos (61.6%). Principais indicadores: ["Palavra-chave 'crise' encontrada (categoria: crises)", "Palavra-chave 'militar' encontrada (categoria: golpes)", "Palavra-chave 'atentado' encontrada (categoria: golpes)"]
+
+Período 31/01/2019 - 14/02/2019 (855 artigos):
+  Artigos com instabilidade política: 504
+  Artigos com estabilidade: 351
+  Percentual de instabilidade: 58.95%
+  Resumo: Detectada instabilidade política em 504 de 855 artigos (58.9%). Principais indicadores: ["Palavra-chave 'mudança' encontrada (categoria: mudanças)", "Palavra-chave 'militar' encontrada (categoria: golpes)", 'Contexto político negativo detectado na análise qualitativa']
+
+Período 15/02/2019 - 01/03/2019 (759 artigos):
+  Artigos com instabilidade política: 464
+  Artigos com estabilidade: 295
+  Percentual de instabilidade: 61.13%
+  Resumo: Detectada instabilidade política em 464 de 759 artigos (61.1%). Principais indicadores: ["Palavra-chave 'protesto' encontrada (categoria: protestos)", "Palavra-chave 'violência' encontrada (categoria: violencia)", "Palavra-chave 'impasse' encontrada (categoria: governabilidade)"]
+
+Período 02/03/2019 - 16/03/2019 (684 artigos):
+  Artigos com instabilidade política: 450
+  Artigos com estabilidade: 234
+  Percentual de instabilidade: 65.79%
+  Resumo: Detectada instabilidade política em 450 de 684 artigos (65.8%). Principais indicadores: ["Palavra-chave 'militar' encontrada (categoria: golpes)", "Palavra-chave 'militar' encontrada (categoria: golpes)", "Palavra-chave 'movimento' encontrada (categoria: protestos)"]
+
+Período 17/03/2019 - 31/03/2019 (685 artigos):
+  Artigos com instabilidade política: 475
+  Artigos com estabilidade: 210
+  Percentual de instabilidade: 69.34%
+  Resumo: Detectada instabilidade política em 475 de 685 artigos (69.3%). Principais indicadores: ["Palavra-chave 'conflito' encontrada (categoria: conflitos)", "Palavra-chave 'golpe' encontrada (categoria: golpes)", "Palavra-chave 'legislativo' encontrada (categoria: eleições)"]
+
+Período 01/04/2019 - 15/04/2019 (700 artigos):
+  Artigos com instabilidade política: 444
+  Artigos com estabilidade: 256
+  Percentual de instabilidade: 63.43%
+  Resumo: Detectada instabilidade política em 444 de 700 artigos (63.4%). Principais indicadores: ["Palavra-chave 'mudança' encontrada (categoria: mudanças)", "Palavra-chave 'militar' encontrada (categoria: golpes)", "Palavra-chave 'parlamentar' encontrada (categoria: governabilidade)"]
+
+Período 16/04/2019 - 30/04/2019 (613 artigos):
+  Artigos com instabilidade política: 402
+  Artigos com estabilidade: 211
+  Percentual de instabilidade: 65.58%
+  Resumo: Detectada instabilidade política em 402 de 613 artigos (65.6%). Principais indicadores: ["Palavra-chave 'crise' encontrada (categoria: crises)", "Palavra-chave 'crise' encontrada (categoria: crises)", "Palavra-chave 'votação' encontrada (categoria: eleições)"]
+
+Período 01/05/2019 - 15/05/2019 (620 artigos):
+  Artigos com instabilidade política: 422
+  Artigos com estabilidade: 198
+  Percentual de instabilidade: 68.06%
+  Resumo: Detectada instabilidade política em 422 de 620 artigos (68.1%). Principais indicadores: ["Palavra-chave 'manifestação' encontrada (categoria: protestos)", "Palavra-chave 'crise' encontrada (categoria: crises)", "Palavra-chave 'incidente' encontrada (categoria: golpes)"]
+
+Período 16/05/2019 - 30/05/2019 (707 artigos):
+  Artigos com instabilidade política: 469
+  Artigos com estabilidade: 238
+  Percentual de instabilidade: 66.34%
+  Resumo: Detectada instabilidade política em 469 de 707 artigos (66.3%). Principais indicadores: ["Palavra-chave 'crise' encontrada (categoria: crises)", "Palavra-chave 'militar' encontrada (categoria: golpes)", "Palavra-chave 'parlamentar' encontrada (categoria: governabilidade)"]
+
+Período 31/05/2019 - 14/06/2019 (686 artigos):
+  Artigos com instabilidade política: 445
+  Artigos com estabilidade: 241
+  Percentual de instabilidade: 64.87%
+  Resumo: Detectada instabilidade política em 445 de 686 artigos (64.9%). Principais indicadores: ["Palavra-chave 'legislativo' encontrada (categoria: eleições)", "Palavra-chave 'presidencial' encontrada (categoria: eleições)", "Palavra-chave 'militar' encontrada (categoria: golpes)"]
+
+Período 15/06/2019 - 29/06/2019 (626 artigos):
+  Artigos com instabilidade política: 404
+  Artigos com estabilidade: 222
+  Percentual de instabilidade: 64.54%
+  Resumo: Detectada instabilidade política em 404 de 626 artigos (64.5%). Principais indicadores: ["Palavra-chave 'conflito' encontrada (categoria: conflitos)", "Palavra-chave 'disputa' encontrada (categoria: conflitos)", "Palavra-chave 'conflito' encontrada (categoria: conflitos)"]
+
+Período 30/06/2019 - 14/07/2019 (587 artigos):
+  Artigos com instabilidade política: 367
+  Artigos com estabilidade: 220
+  Percentual de instabilidade: 62.52%
+  Resumo: Detectada instabilidade política em 367 de 587 artigos (62.5%). Principais indicadores: ["Palavra-chave 'parlamentar' encontrada (categoria: governabilidade)", "Palavra-chave 'mudança' encontrada (categoria: mudanças)", "Palavra-chave 'emergência' encontrada (categoria: crises)"]
+
+Período 15/07/2019 - 29/07/2019 (552 artigos):
+  Artigos com instabilidade política: 358
+  Artigos com estabilidade: 194
+  Percentual de instabilidade: 64.86%
+  Resumo: Detectada instabilidade política em 358 de 552 artigos (64.9%). Principais indicadores: ["Palavra-chave 'parlamentar' encontrada (categoria: governabilidade)", "Palavra-chave 'militar' encontrada (categoria: golpes)", "Palavra-chave 'incidente' encontrada (categoria: golpes)"]
+
+Período 30/07/2019 - 13/08/2019 (604 artigos):
+  Artigos com instabilidade política: 391
+  Artigos com estabilidade: 213
+  Percentual de instabilidade: 64.74%
+  Resumo: Detectada instabilidade política em 391 de 604 artigos (64.7%). Principais indicadores: ["Palavra-chave 'golpe' encontrada (categoria: golpes)", "Palavra-chave 'confronto' encontrada (categoria: conflitos)", "Palavra-chave 'disputa' encontrada (categoria: conflitos)"]
+
+Período 14/08/2019 - 28/08/2019 (626 artigos):
+  Artigos com instabilidade política: 426
+  Artigos com estabilidade: 200
+  Percentual de instabilidade: 68.05%
+  Resumo: Detectada instabilidade política em 426 de 626 artigos (68.1%). Principais indicadores: ["Palavra-chave 'militar' encontrada (categoria: golpes)", "Palavra-chave 'mudança' encontrada (categoria: mudanças)", "Palavra-chave 'militar' encontrada (categoria: golpes)"]
+
+Período 29/08/2019 - 12/09/2019 (679 artigos):
+  Artigos com instabilidade política: 443
+  Artigos com estabilidade: 236
+  Percentual de instabilidade: 65.24%
+  Resumo: Detectada instabilidade política em 443 de 679 artigos (65.2%). Principais indicadores: ["Palavra-chave 'mudança' encontrada (categoria: mudanças)", "Palavra-chave 'alteração' encontrada (categoria: mudanças)", "Palavra-chave 'transformação' encontrada (categoria: mudanças)"]
+
+Período 13/09/2019 - 27/09/2019 (714 artigos):
+  Artigos com instabilidade política: 457
+  Artigos com estabilidade: 257
+  Percentual de instabilidade: 64.01%
+  Resumo: Detectada instabilidade política em 457 de 714 artigos (64.0%). Principais indicadores: ["Palavra-chave 'disputa' encontrada (categoria: conflitos)", "Palavra-chave 'votação' encontrada (categoria: eleições)", "Palavra-chave 'crise' encontrada (categoria: crises)"]
+
+Período 28/09/2019 - 12/10/2019 (663 artigos):
+  Artigos com instabilidade política: 423
+  Artigos com estabilidade: 240
+  Percentual de instabilidade: 63.80%
+  Resumo: Detectada instabilidade política em 423 de 663 artigos (63.8%). Principais indicadores: ["Palavra-chave 'tensão' encontrada (categoria: conflitos)", "Palavra-chave 'crime' encontrada (categoria: violencia)", "Palavra-chave 'mudança' encontrada (categoria: mudanças)"]
+
+Período 13/10/2019 - 27/10/2019 (706 artigos):
+  Artigos com instabilidade política: 461
+  Artigos com estabilidade: 245
+  Percentual de instabilidade: 65.30%
+  Resumo: Detectada instabilidade política em 461 de 706 artigos (65.3%). Principais indicadores: ["Palavra-chave 'conflito' encontrada (categoria: conflitos)", 'Contexto político negativo detectado na análise qualitativa', "Palavra-chave 'mudança' encontrada (categoria: mudanças)"]
+
+Período 28/10/2019 - 11/11/2019 (718 artigos):
+  Artigos com instabilidade política: 435
+  Artigos com estabilidade: 283
+  Percentual de instabilidade: 60.58%
+  Resumo: Detectada instabilidade política em 435 de 718 artigos (60.6%). Principais indicadores: ["Palavra-chave 'tensão' encontrada (categoria: conflitos)", 'Contexto político negativo detectado na análise qualitativa', "Palavra-chave 'intervenção' encontrada (categoria: golpes)"]
+
+Período 12/11/2019 - 26/11/2019 (613 artigos):
+  Artigos com instabilidade política: 394
+  Artigos com estabilidade: 219
+  Percentual de instabilidade: 64.27%
+  Resumo: Detectada instabilidade política em 394 de 613 artigos (64.3%). Principais indicadores: ["Palavra-chave 'crise' encontrada (categoria: crises)", "Palavra-chave 'intervenção' encontrada (categoria: golpes)", "Palavra-chave 'crime' encontrada (categoria: violencia)"]
+
+Período 27/11/2019 - 11/12/2019 (744 artigos):
+  Artigos com instabilidade política: 458
+  Artigos com estabilidade: 286
+  Percentual de instabilidade: 61.56%
+  Resumo: Detectada instabilidade política em 458 de 744 artigos (61.6%). Principais indicadores: ["Palavra-chave 'crise' encontrada (categoria: crises)", "Palavra-chave 'parlamentar' encontrada (categoria: governabilidade)", "Palavra-chave 'parlamentar' encontrada (categoria: governabilidade)"]
+
+Período 12/12/2019 - 26/12/2019 (602 artigos):
+  Artigos com instabilidade política: 363
+  Artigos com estabilidade: 239
+  Percentual de instabilidade: 60.30%
+  Resumo: Detectada instabilidade política em 363 de 602 artigos (60.3%). Principais indicadores: ["Palavra-chave 'protesto' encontrada (categoria: protestos)", "Palavra-chave 'parlamentar' encontrada (categoria: governabilidade)", "Palavra-chave 'militar' encontrada (categoria: golpes)"]
+
+Período 27/12/2019 - 10/01/2020 (571 artigos):
+  Artigos com instabilidade política: 336
+  Artigos com estabilidade: 235
+  Percentual de instabilidade: 58.84%
+  Resumo: Detectada instabilidade política em 336 de 571 artigos (58.8%). Principais indicadores: ["Palavra-chave 'movimento' encontrada (categoria: protestos)", "Palavra-chave 'militar' encontrada (categoria: golpes)", "Palavra-chave 'ataque' encontrada (categoria: violencia)"]
+
+Período 11/01/2020 - 25/01/2020 (648 artigos):
+  Artigos com instabilidade política: 387
+  Artigos com estabilidade: 261
+  Percentual de instabilidade: 59.72%
+  Resumo: Detectada instabilidade política em 387 de 648 artigos (59.7%). Principais indicadores: ["Palavra-chave 'disputa' encontrada (categoria: conflitos)", "Palavra-chave 'tensão' encontrada (categoria: conflitos)", "Palavra-chave 'choque' encontrada (categoria: conflitos)"]
+
+Período 26/01/2020 - 09/02/2020 (636 artigos):
+  Artigos com instabilidade política: 383
+  Artigos com estabilidade: 253
+  Percentual de instabilidade: 60.22%
+  Resumo: Detectada instabilidade política em 383 de 636 artigos (60.2%). Principais indicadores: ["Palavra-chave 'crise' encontrada (categoria: crises)", "Palavra-chave 'ataque' encontrada (categoria: violencia)", "Palavra-chave 'emergência' encontrada (categoria: crises)"]
+
+Período 10/02/2020 - 24/02/2020 (620 artigos):
+  Artigos com instabilidade política: 357
+  Artigos com estabilidade: 263
+  Percentual de instabilidade: 57.58%
+  Resumo: Detectada instabilidade política em 357 de 620 artigos (57.6%). Principais indicadores: ["Palavra-chave 'emergência' encontrada (categoria: crises)", "Palavra-chave 'mudança' encontrada (categoria: mudanças)", "Palavra-chave 'alteração' encontrada (categoria: mudanças)"]
+
+Período 25/02/2020 - 10/03/2020 (675 artigos):
+  Artigos com instabilidade política: 379
+  Artigos com estabilidade: 296
+  Percentual de instabilidade: 56.15%
+  Resumo: Detectada instabilidade política em 379 de 675 artigos (56.1%). Principais indicadores: ["Palavra-chave 'violência' encontrada (categoria: violencia)", "Palavra-chave 'militar' encontrada (categoria: golpes)", "Palavra-chave 'movimento' encontrada (categoria: protestos)"]
+
+Período 11/03/2020 - 25/03/2020 (1106 artigos):
+  Artigos com instabilidade política: 664
+  Artigos com estabilidade: 442
+  Percentual de instabilidade: 60.04%
+  Resumo: Detectada instabilidade política em 664 de 1106 artigos (60.0%). Principais indicadores: ["Palavra-chave 'crise' encontrada (categoria: crises)", "Palavra-chave 'militar' encontrada (categoria: golpes)", "Palavra-chave 'emergência' encontrada (categoria: crises)"]
+
+Período 26/03/2020 - 09/04/2020 (890 artigos):
+  Artigos com instabilidade política: 488
+  Artigos com estabilidade: 402
+  Percentual de instabilidade: 54.83%
+  Resumo: Detectada instabilidade política em 488 de 890 artigos (54.8%). Principais indicadores: ["Palavras 'rotina' encontradas (indicador de estabilidade)", "Palavra-chave 'crise' encontrada (categoria: crises)", "Palavra-chave 'mudança' encontrada (categoria: mudanças)"]
+
+Período 10/04/2020 - 24/04/2020 (731 artigos):
+  Artigos com instabilidade política: 408
+  Artigos com estabilidade: 323
+  Percentual de instabilidade: 55.81%
+  Resumo: Detectada instabilidade política em 408 de 731 artigos (55.8%). Principais indicadores: ["Palavra-chave 'crise' encontrada (categoria: crises)", 'Contexto político negativo detectado na análise qualitativa', "Palavra-chave 'emergência' encontrada (categoria: crises)"]
+
+Período 25/04/2020 - 09/05/2020 (789 artigos):
+  Artigos com instabilidade política: 443
+  Artigos com estabilidade: 346
+  Percentual de instabilidade: 56.15%
+  Resumo: Detectada instabilidade política em 443 de 789 artigos (56.1%). Principais indicadores: ["Palavra-chave 'crise' encontrada (categoria: crises)", 'Contexto político negativo detectado na análise qualitativa', "Palavra-chave 'militar' encontrada (categoria: golpes)"]
+
+Período 10/05/2020 - 24/05/2020 (806 artigos):
+  Artigos com instabilidade política: 435
+  Artigos com estabilidade: 371
+  Percentual de instabilidade: 53.97%
+  Resumo: Detectada instabilidade política em 435 de 806 artigos (54.0%). Principais indicadores: ["Palavra-chave 'movimento' encontrada (categoria: protestos)", "Palavra-chave 'mudança' encontrada (categoria: mudanças)", 'Contexto político negativo detectado na análise qualitativa']
+
+Período 25/05/2020 - 08/06/2020 (867 artigos):
+  Artigos com instabilidade política: 507
+  Artigos com estabilidade: 360
+  Percentual de instabilidade: 58.48%
+  Resumo: Detectada instabilidade política em 507 de 867 artigos (58.5%). Principais indicadores: ["Palavra-chave 'emergência' encontrada (categoria: crises)", 'Contexto político negativo detectado na análise qualitativa', "Palavra-chave 'emergência' encontrada (categoria: crises)"]
+
+Período 09/06/2020 - 23/06/2020 (813 artigos):
+  Artigos com instabilidade política: 478
+  Artigos com estabilidade: 335
+  Percentual de instabilidade: 58.79%
+  Resumo: Detectada instabilidade política em 478 de 813 artigos (58.8%). Principais indicadores: ["Palavra-chave 'incidente' encontrada (categoria: golpes)", "Palavra-chave 'mudança' encontrada (categoria: mudanças)", "Palavra-chave 'militar' encontrada (categoria: golpes)"]
+
+Período 24/06/2020 - 08/07/2020 (839 artigos):
+  Artigos com instabilidade política: 450
+  Artigos com estabilidade: 389
+  Percentual de instabilidade: 53.64%
+  Resumo: Detectada instabilidade política em 450 de 839 artigos (53.6%). Principais indicadores: ["Palavra-chave 'parlamentar' encontrada (categoria: governabilidade)", "Palavra-chave 'crise' encontrada (categoria: crises)", "Palavra-chave 'colapso' encontrada (categoria: crises)"]
+
+Período 09/07/2020 - 23/07/2020 (890 artigos):
+  Artigos com instabilidade política: 499
+  Artigos com estabilidade: 391
+  Percentual de instabilidade: 56.07%
+  Resumo: Detectada instabilidade política em 499 de 890 artigos (56.1%). Principais indicadores: ["Palavra-chave 'crise' encontrada (categoria: crises)", 'Contexto político negativo detectado na análise qualitativa', "Palavra-chave 'disputa' encontrada (categoria: conflitos)"]
+
+Período 24/07/2020 - 07/08/2020 (863 artigos):
+  Artigos com instabilidade política: 463
+  Artigos com estabilidade: 400
+  Percentual de instabilidade: 53.65%
+  Resumo: Detectada instabilidade política em 463 de 863 artigos (53.7%). Principais indicadores: ["Palavra-chave 'tensão' encontrada (categoria: conflitos)", "Palavra-chave 'emergência' encontrada (categoria: crises)", "Palavra-chave 'crise' encontrada (categoria: crises)"]
+
+Período 08/08/2020 - 22/08/2020 (766 artigos):
+  Artigos com instabilidade política: 436
+  Artigos com estabilidade: 330
+  Percentual de instabilidade: 56.92%
+  Resumo: Detectada instabilidade política em 436 de 766 artigos (56.9%). Principais indicadores: ['Contexto político negativo detectado na análise qualitativa', "Palavra-chave 'tensão' encontrada (categoria: conflitos)", "Palavra-chave 'disputa' encontrada (categoria: conflitos)"]
+
+Período 23/08/2020 - 06/09/2020 (857 artigos):
+  Artigos com instabilidade política: 499
+  Artigos com estabilidade: 358
+  Percentual de instabilidade: 58.23%
+  Resumo: Detectada instabilidade política em 499 de 857 artigos (58.2%). Principais indicadores: ["Palavra-chave 'emergência' encontrada (categoria: crises)", "Palavra-chave 'crise' encontrada (categoria: crises)", "Palavra-chave 'confronto' encontrada (categoria: conflitos)"]
+
+Período 07/09/2020 - 21/09/2020 (778 artigos):
+  Artigos com instabilidade política: 418
+  Artigos com estabilidade: 360
+  Percentual de instabilidade: 53.73%
+  Resumo: Detectada instabilidade política em 418 de 778 artigos (53.7%). Principais indicadores: ["Palavra-chave 'disputa' encontrada (categoria: conflitos)", 'Contexto político negativo detectado na análise qualitativa', "Palavra-chave 'militar' encontrada (categoria: golpes)"]
+
+Período 22/09/2020 - 06/10/2020 (880 artigos):
+  Artigos com instabilidade política: 499
+  Artigos com estabilidade: 381
+  Percentual de instabilidade: 56.70%
+  Resumo: Detectada instabilidade política em 499 de 880 artigos (56.7%). Principais indicadores: ["Palavra-chave 'militar' encontrada (categoria: golpes)", "Palavra-chave 'urgente' encontrada (categoria: crises)", "Palavra-chave 'urgente' encontrada (categoria: crises)"]
+
+Período 07/10/2020 - 21/10/2020 (712 artigos):
+  Artigos com instabilidade política: 380
+  Artigos com estabilidade: 332
+  Percentual de instabilidade: 53.37%
+  Resumo: Detectada instabilidade política em 380 de 712 artigos (53.4%). Principais indicadores: ["Palavra-chave 'crise' encontrada (categoria: crises)", "Palavra-chave 'crime' encontrada (categoria: violencia)", "Palavra-chave 'movimento' encontrada (categoria: protestos)"]
+
+Período 22/10/2020 - 05/11/2020 (695 artigos):
+  Artigos com instabilidade política: 431
+  Artigos com estabilidade: 264
+  Percentual de instabilidade: 62.01%
+  Resumo: Detectada instabilidade política em 431 de 695 artigos (62.0%). Principais indicadores: ["Palavra-chave 'movimento' encontrada (categoria: protestos)", "Palavra-chave 'confronto' encontrada (categoria: conflitos)", "Palavras 'comum' encontradas (indicador de estabilidade)"]
+
+Período 06/11/2020 - 20/11/2020 (840 artigos):
+  Artigos com instabilidade política: 571
+  Artigos com estabilidade: 269
+  Percentual de instabilidade: 67.98%
+  Resumo: Detectada instabilidade política em 571 de 840 artigos (68.0%). Principais indicadores: ["Palavra-chave 'disputa' encontrada (categoria: conflitos)", "Palavra-chave 'tensão' encontrada (categoria: conflitos)", "Palavra-chave 'crime' encontrada (categoria: violencia)"]
+
+Período 21/11/2020 - 05/12/2020 (852 artigos):
+  Artigos com instabilidade política: 571
+  Artigos com estabilidade: 281
+  Percentual de instabilidade: 67.02%
+  Resumo: Detectada instabilidade política em 571 de 852 artigos (67.0%). Principais indicadores: ["Palavra-chave 'crise' encontrada (categoria: crises)", "Palavra-chave 'crise' encontrada (categoria: crises)", 'Contexto político negativo detectado na análise qualitativa']
+
+Período 06/12/2020 - 20/12/2020 (784 artigos):
+  Artigos com instabilidade política: 485
+  Artigos com estabilidade: 299
+  Percentual de instabilidade: 61.86%
+  Resumo: Detectada instabilidade política em 485 de 784 artigos (61.9%). Principais indicadores: ["Palavra-chave 'disputa' encontrada (categoria: conflitos)", 'Contexto político negativo detectado na análise qualitativa', "Palavra-chave 'tensão' encontrada (categoria: conflitos)"]
+
+Período 21/12/2020 - 04/01/2021 (565 artigos):
+  Artigos com instabilidade política: 312
+  Artigos com estabilidade: 253
+  Percentual de instabilidade: 55.22%
+  Resumo: Detectada instabilidade política em 312 de 565 artigos (55.2%). Principais indicadores: ["Palavra-chave 'tensão' encontrada (categoria: conflitos)", "Palavra-chave 'tensão' encontrada (categoria: conflitos)", "Palavra-chave 'crime' encontrada (categoria: violencia)"]
+
+Período 05/01/2021 - 19/01/2021 (698 artigos):
+  Artigos com instabilidade política: 393
+  Artigos com estabilidade: 305
+  Percentual de instabilidade: 56.30%
+  Resumo: Detectada instabilidade política em 393 de 698 artigos (56.3%). Principais indicadores: ["Palavra-chave 'disputa' encontrada (categoria: conflitos)", "Palavra-chave 'mudança' encontrada (categoria: mudanças)", 'Contexto político negativo detectado na análise qualitativa']
+
+Período 20/01/2021 - 03/02/2021 (729 artigos):
+  Artigos com instabilidade política: 411
+  Artigos com estabilidade: 318
+  Percentual de instabilidade: 56.38%
+  Resumo: Detectada instabilidade política em 411 de 729 artigos (56.4%). Principais indicadores: ["Palavra-chave 'confronto' encontrada (categoria: conflitos)", "Palavra-chave 'tensão' encontrada (categoria: conflitos)", "Palavra-chave 'crime' encontrada (categoria: violencia)"]
+
+Período 04/02/2021 - 18/02/2021 (677 artigos):
+  Artigos com instabilidade política: 386
+  Artigos com estabilidade: 291
+  Percentual de instabilidade: 57.02%
+  Resumo: Detectada instabilidade política em 386 de 677 artigos (57.0%). Principais indicadores: ["Palavra-chave 'disputa' encontrada (categoria: conflitos)", "Palavra-chave 'presidencial' encontrada (categoria: eleições)", "Palavra-chave 'movimento' encontrada (categoria: protestos)"]
+
+Período 19/02/2021 - 05/03/2021 (825 artigos):
+  Artigos com instabilidade política: 459
+  Artigos com estabilidade: 366
+  Percentual de instabilidade: 55.64%
+  Resumo: Detectada instabilidade política em 459 de 825 artigos (55.6%). Principais indicadores: ["Palavra-chave 'disputa' encontrada (categoria: conflitos)", "Palavra-chave 'eleição' encontrada (categoria: eleições)", "Palavra-chave 'eleição' encontrada (categoria: eleições)"]
+
+Período 06/03/2021 - 20/03/2021 (827 artigos):
+  Artigos com instabilidade política: 471
+  Artigos com estabilidade: 356
+  Percentual de instabilidade: 56.95%
+  Resumo: Detectada instabilidade política em 471 de 827 artigos (57.0%). Principais indicadores: ["Palavra-chave 'disputa' encontrada (categoria: conflitos)", "Palavra-chave 'crise' encontrada (categoria: crises)", "Palavra-chave 'disputa' encontrada (categoria: conflitos)"]
+
+Período 21/03/2021 - 04/04/2021 (727 artigos):
+  Artigos com instabilidade política: 385
+  Artigos com estabilidade: 342
+  Percentual de instabilidade: 52.96%
+  Resumo: Detectada instabilidade política em 385 de 727 artigos (53.0%). Principais indicadores: ["Palavra-chave 'ataque' encontrada (categoria: violencia)", "Palavra-chave 'intervenção' encontrada (categoria: golpes)", "Palavra-chave 'ataque' encontrada (categoria: violencia)"]
+
+Período 05/04/2021 - 19/04/2021 (827 artigos):
+  Artigos com instabilidade política: 499
+  Artigos com estabilidade: 328
+  Percentual de instabilidade: 60.34%
+  Resumo: Detectada instabilidade política em 499 de 827 artigos (60.3%). Principais indicadores: ["Palavra-chave 'disputa' encontrada (categoria: conflitos)", "Palavra-chave 'disputa' encontrada (categoria: conflitos)", "Palavra-chave 'confronto' encontrada (categoria: conflitos)"]
+
+Período 20/04/2021 - 04/05/2021 (844 artigos):
+  Artigos com instabilidade política: 469
+  Artigos com estabilidade: 375
+  Percentual de instabilidade: 55.57%
+  Resumo: Detectada instabilidade política em 469 de 844 artigos (55.6%). Principais indicadores: ["Palavra-chave 'ataque' encontrada (categoria: violencia)", "Palavra-chave 'parlamentar' encontrada (categoria: governabilidade)", "Palavra-chave 'colapso' encontrada (categoria: crises)"]
+
+Período 05/05/2021 - 19/05/2021 (800 artigos):
+  Artigos com instabilidade política: 473
+  Artigos com estabilidade: 327
+  Percentual de instabilidade: 59.13%
+  Resumo: Detectada instabilidade política em 473 de 800 artigos (59.1%). Principais indicadores: ["Palavra-chave 'disputa' encontrada (categoria: conflitos)", "Palavra-chave 'alteração' encontrada (categoria: mudanças)", "Palavra-chave 'emergência' encontrada (categoria: crises)"]
+
+Período 20/05/2021 - 03/06/2021 (842 artigos):
+  Artigos com instabilidade política: 469
+  Artigos com estabilidade: 373
+  Percentual de instabilidade: 55.70%
+  Resumo: Detectada instabilidade política em 469 de 842 artigos (55.7%). Principais indicadores: ["Palavra-chave 'confronto' encontrada (categoria: conflitos)", "Palavra-chave 'disputa' encontrada (categoria: conflitos)", "Palavra-chave 'conflito' encontrada (categoria: conflitos)"]
+
+Período 04/06/2021 - 18/06/2021 (791 artigos):
+  Artigos com instabilidade política: 447
+  Artigos com estabilidade: 344
+  Percentual de instabilidade: 56.51%
+  Resumo: Detectada instabilidade política em 447 de 791 artigos (56.5%). Principais indicadores: ["Palavra-chave 'disputa' encontrada (categoria: conflitos)", "Palavra-chave 'disputa' encontrada (categoria: conflitos)", "Palavra-chave 'crime' encontrada (categoria: violencia)"]
+
+Período 19/06/2021 - 03/07/2021 (814 artigos):
+  Artigos com instabilidade política: 469
+  Artigos com estabilidade: 345
+  Percentual de instabilidade: 57.62%
+  Resumo: Detectada instabilidade política em 469 de 814 artigos (57.6%). Principais indicadores: ["Palavra-chave 'ataque' encontrada (categoria: violencia)", "Palavra-chave 'confronto' encontrada (categoria: conflitos)", "Palavra-chave 'disputa' encontrada (categoria: conflitos)"]
+
+Período 04/07/2021 - 18/07/2021 (719 artigos):
+  Artigos com instabilidade política: 426
+  Artigos com estabilidade: 293
+  Percentual de instabilidade: 59.25%
+  Resumo: Detectada instabilidade política em 426 de 719 artigos (59.2%). Principais indicadores: ["Palavra-chave 'disputa' encontrada (categoria: conflitos)", "Palavra-chave 'confronto' encontrada (categoria: conflitos)", "Palavra-chave 'tensão' encontrada (categoria: conflitos)"]
+
+Período 19/07/2021 - 02/08/2021 (777 artigos):
+  Artigos com instabilidade política: 414
+  Artigos com estabilidade: 363
+  Percentual de instabilidade: 53.28%
+  Resumo: Detectada instabilidade política em 414 de 777 artigos (53.3%). Principais indicadores: ["Palavra-chave 'confronto' encontrada (categoria: conflitos)", "Palavra-chave 'disputa' encontrada (categoria: conflitos)", "Palavra-chave 'crise' encontrada (categoria: crises)"]
+
+Período 03/08/2021 - 17/08/2021 (865 artigos):
+  Artigos com instabilidade política: 458
+  Artigos com estabilidade: 407
+  Percentual de instabilidade: 52.95%
+  Resumo: Detectada instabilidade política em 458 de 865 artigos (52.9%). Principais indicadores: ["Palavra-chave 'disputa' encontrada (categoria: conflitos)", "Palavra-chave 'disputa' encontrada (categoria: conflitos)", "Palavras 'regular' encontradas (indicador de estabilidade)"]
+
+Período 18/08/2021 - 01/09/2021 (832 artigos):
+  Artigos com instabilidade política: 447
+  Artigos com estabilidade: 385
+  Percentual de instabilidade: 53.73%
+  Resumo: Detectada instabilidade política em 447 de 832 artigos (53.7%). Principais indicadores: ["Palavra-chave 'ataque' encontrada (categoria: violencia)", "Palavra-chave 'emergência' encontrada (categoria: crises)", "Palavra-chave 'militar' encontrada (categoria: golpes)"]
+
+Período 02/09/2021 - 16/09/2021 (719 artigos):
+  Artigos com instabilidade política: 418
+  Artigos com estabilidade: 301
+  Percentual de instabilidade: 58.14%
+  Resumo: Detectada instabilidade política em 418 de 719 artigos (58.1%). Principais indicadores: ["Palavra-chave 'disputa' encontrada (categoria: conflitos)", "Palavra-chave 'disputa' encontrada (categoria: conflitos)", "Palavra-chave 'crise' encontrada (categoria: crises)"]
+
+Período 17/09/2021 - 01/10/2021 (772 artigos):
+  Artigos com instabilidade política: 427
+  Artigos com estabilidade: 345
+  Percentual de instabilidade: 55.31%
+  Resumo: Detectada instabilidade política em 427 de 772 artigos (55.3%). Principais indicadores: ["Palavra-chave 'militar' encontrada (categoria: golpes)", "Palavra-chave 'alteração' encontrada (categoria: mudanças)", "Palavra-chave 'incidente' encontrada (categoria: golpes)"]
+
+Período 02/10/2021 - 16/10/2021 (679 artigos):
+  Artigos com instabilidade política: 368
+  Artigos com estabilidade: 311
+  Percentual de instabilidade: 54.20%
+  Resumo: Detectada instabilidade política em 368 de 679 artigos (54.2%). Principais indicadores: ["Palavra-chave 'ataque' encontrada (categoria: violencia)", "Palavra-chave 'crise' encontrada (categoria: crises)", "Palavra-chave 'parlamentar' encontrada (categoria: governabilidade)"]
+
+Período 17/10/2021 - 31/10/2021 (729 artigos):
+  Artigos com instabilidade política: 407
+  Artigos com estabilidade: 322
+  Percentual de instabilidade: 55.83%
+  Resumo: Detectada instabilidade política em 407 de 729 artigos (55.8%). Principais indicadores: ["Palavra-chave 'confronto' encontrada (categoria: conflitos)", "Palavra-chave 'ataque' encontrada (categoria: violencia)", "Palavra-chave 'disputa' encontrada (categoria: conflitos)"]
+
+Período 01/11/2021 - 15/11/2021 (755 artigos):
+  Artigos com instabilidade política: 401
+  Artigos com estabilidade: 354
+  Percentual de instabilidade: 53.11%
+  Resumo: Detectada instabilidade política em 401 de 755 artigos (53.1%). Principais indicadores: ["Palavra-chave 'votação' encontrada (categoria: eleições)", "Palavra-chave 'mudança' encontrada (categoria: mudanças)", "Palavra-chave 'constituinte' encontrada (categoria: mudanças)"]
+
+Período 16/11/2021 - 30/11/2021 (738 artigos):
+  Artigos com instabilidade política: 397
+  Artigos com estabilidade: 341
+  Percentual de instabilidade: 53.79%
+  Resumo: Detectada instabilidade política em 397 de 738 artigos (53.8%). Principais indicadores: ["Palavra-chave 'disputa' encontrada (categoria: conflitos)", "Palavra-chave 'parlamentar' encontrada (categoria: governabilidade)", "Palavra-chave 'disputa' encontrada (categoria: conflitos)"]
+
+Período 01/12/2021 - 15/12/2021 (654 artigos):
+  Artigos com instabilidade política: 318
+  Artigos com estabilidade: 336
+  Percentual de instabilidade: 48.62%
+  Resumo: Detectada instabilidade política em 318 de 654 artigos (48.6%). Principais indicadores: ["Palavra-chave 'disputa' encontrada (categoria: conflitos)", "Palavra-chave 'mudança' encontrada (categoria: mudanças)", "Palavra-chave 'disputa' encontrada (categoria: conflitos)"]
+
+Período 16/12/2021 - 30/12/2021 (591 artigos):
+  Artigos com instabilidade política: 271
+  Artigos com estabilidade: 320
+  Percentual de instabilidade: 45.85%
+  Resumo: Detectada instabilidade política em 271 de 591 artigos (45.9%). Principais indicadores: ["Palavra-chave 'violência' encontrada (categoria: violencia)", "Palavra-chave 'votação' encontrada (categoria: eleições)", "Palavra-chave 'incidente' encontrada (categoria: golpes)"]
+
+Período 31/12/2021 - 14/01/2022 (657 artigos):
+  Artigos com instabilidade política: 322
+  Artigos com estabilidade: 335
+  Percentual de instabilidade: 49.01%
+  Resumo: Detectada instabilidade política em 322 de 657 artigos (49.0%). Principais indicadores: ['Contexto político negativo detectado na análise qualitativa', "Palavra-chave 'alteração' encontrada (categoria: mudanças)", "Palavra-chave 'tensão' encontrada (categoria: conflitos)"]
+
+Período 15/01/2022 - 29/01/2022 (638 artigos):
+  Artigos com instabilidade política: 314
+  Artigos com estabilidade: 324
+  Percentual de instabilidade: 49.22%
+  Resumo: Detectada instabilidade política em 314 de 638 artigos (49.2%). Principais indicadores: ["Palavra-chave 'ataque' encontrada (categoria: violencia)", "Palavra-chave 'disputa' encontrada (categoria: conflitos)", "Palavra-chave 'tensão' encontrada (categoria: conflitos)"]
+
+Período 30/01/2022 - 13/02/2022 (709 artigos):
+  Artigos com instabilidade política: 400
+  Artigos com estabilidade: 309
+  Percentual de instabilidade: 56.42%
+  Resumo: Detectada instabilidade política em 400 de 709 artigos (56.4%). Principais indicadores: ["Palavra-chave 'confronto' encontrada (categoria: conflitos)", "Palavra-chave 'mudança' encontrada (categoria: mudanças)", "Palavra-chave 'intervenção' encontrada (categoria: golpes)"]
+
+Período 14/02/2022 - 28/02/2022 (866 artigos):
+  Artigos com instabilidade política: 525
+  Artigos com estabilidade: 341
+  Percentual de instabilidade: 60.62%
+  Resumo: Detectada instabilidade política em 525 de 866 artigos (60.6%). Principais indicadores: ["Palavra-chave 'crime' encontrada (categoria: violencia)", "Palavra-chave 'violência' encontrada (categoria: violencia)", 'Contexto político negativo detectado na análise qualitativa']
+
+Período 01/03/2022 - 15/03/2022 (727 artigos):
+  Artigos com instabilidade política: 467
+  Artigos com estabilidade: 260
+  Percentual de instabilidade: 64.24%
+  Resumo: Detectada instabilidade política em 467 de 727 artigos (64.2%). Principais indicadores: ["Palavra-chave 'confronto' encontrada (categoria: conflitos)", "Palavra-chave 'confronto' encontrada (categoria: conflitos)", "Palavra-chave 'disputa' encontrada (categoria: conflitos)"]
+
+Período 16/03/2022 - 30/03/2022 (752 artigos):
+  Artigos com instabilidade política: 424
+  Artigos com estabilidade: 328
+  Percentual de instabilidade: 56.38%
+  Resumo: Detectada instabilidade política em 424 de 752 artigos (56.4%). Principais indicadores: ["Palavra-chave 'crise' encontrada (categoria: crises)", "Palavra-chave 'disputa' encontrada (categoria: conflitos)", "Palavra-chave 'presidencial' encontrada (categoria: eleições)"]
+
+Período 31/03/2022 - 14/04/2022 (787 artigos):
+  Artigos com instabilidade política: 449
+  Artigos com estabilidade: 338
+  Percentual de instabilidade: 57.05%
+  Resumo: Detectada instabilidade política em 449 de 787 artigos (57.1%). Principais indicadores: ["Palavra-chave 'disputa' encontrada (categoria: conflitos)", "Palavra-chave 'mudança' encontrada (categoria: mudanças)", "Palavra-chave 'reforma' encontrada (categoria: mudanças)"]
+
+Período 15/04/2022 - 29/04/2022 (677 artigos):
+  Artigos com instabilidade política: 381
+  Artigos com estabilidade: 296
+  Percentual de instabilidade: 56.28%
+  Resumo: Detectada instabilidade política em 381 de 677 artigos (56.3%). Principais indicadores: ["Palavra-chave 'golpe' encontrada (categoria: golpes)", "Palavra-chave 'conflito' encontrada (categoria: conflitos)", 'Contexto político negativo detectado na análise qualitativa']
+
+Período 30/04/2022 - 14/05/2022 (652 artigos):
+  Artigos com instabilidade política: 348
+  Artigos com estabilidade: 304
+  Percentual de instabilidade: 53.37%
+  Resumo: Detectada instabilidade política em 348 de 652 artigos (53.4%). Principais indicadores: ["Palavra-chave 'protesto' encontrada (categoria: protestos)", "Palavra-chave 'presidencial' encontrada (categoria: eleições)", "Palavra-chave 'colapso' encontrada (categoria: crises)"]
+
+Período 15/05/2022 - 29/05/2022 (688 artigos):
+  Artigos com instabilidade política: 372
+  Artigos com estabilidade: 316
+  Percentual de instabilidade: 54.07%
+  Resumo: Detectada instabilidade política em 372 de 688 artigos (54.1%). Principais indicadores: ["Palavra-chave 'confronto' encontrada (categoria: conflitos)", "Palavra-chave 'disputa' encontrada (categoria: conflitos)", "Palavra-chave 'disputa' encontrada (categoria: conflitos)"]
+
+Período 30/05/2022 - 13/06/2022 (754 artigos):
+  Artigos com instabilidade política: 407
+  Artigos com estabilidade: 347
+  Percentual de instabilidade: 53.98%
+  Resumo: Detectada instabilidade política em 407 de 754 artigos (54.0%). Principais indicadores: ["Palavra-chave 'tensão' encontrada (categoria: conflitos)", "Palavra-chave 'crise' encontrada (categoria: crises)", "Palavra-chave 'manifestação' encontrada (categoria: protestos)"]
+
+Período 14/06/2022 - 28/06/2022 (731 artigos):
+  Artigos com instabilidade política: 414
+  Artigos com estabilidade: 317
+  Percentual de instabilidade: 56.63%
+  Resumo: Detectada instabilidade política em 414 de 731 artigos (56.6%). Principais indicadores: ["Palavra-chave 'disputa' encontrada (categoria: conflitos)", "Palavra-chave 'tensão' encontrada (categoria: conflitos)", "Palavra-chave 'incidente' encontrada (categoria: golpes)"]
+
+Período 29/06/2022 - 13/07/2022 (703 artigos):
+  Artigos com instabilidade política: 401
+  Artigos com estabilidade: 302
+  Percentual de instabilidade: 57.04%
+  Resumo: Detectada instabilidade política em 401 de 703 artigos (57.0%). Principais indicadores: ["Palavra-chave 'ataque' encontrada (categoria: violencia)", "Palavra-chave 'militar' encontrada (categoria: golpes)", "Palavra-chave 'parlamentar' encontrada (categoria: governabilidade)"]
+
+Período 14/07/2022 - 28/07/2022 (655 artigos):
+  Artigos com instabilidade política: 379
+  Artigos com estabilidade: 276
+  Percentual de instabilidade: 57.86%
+  Resumo: Detectada instabilidade política em 379 de 655 artigos (57.9%). Principais indicadores: ["Palavra-chave 'confronto' encontrada (categoria: conflitos)", "Palavra-chave 'disputa' encontrada (categoria: conflitos)", "Palavra-chave 'violência' encontrada (categoria: violencia)"]
+
+Período 29/07/2022 - 12/08/2022 (735 artigos):
+  Artigos com instabilidade política: 436
+  Artigos com estabilidade: 299
+  Percentual de instabilidade: 59.32%
+  Resumo: Detectada instabilidade política em 436 de 735 artigos (59.3%). Principais indicadores: ["Palavra-chave 'disputa' encontrada (categoria: conflitos)", "Palavra-chave 'colapso' encontrada (categoria: crises)", "Palavra-chave 'crime' encontrada (categoria: violencia)"]
+
+Período 13/08/2022 - 27/08/2022 (716 artigos):
+  Artigos com instabilidade política: 431
+  Artigos com estabilidade: 285
+  Percentual de instabilidade: 60.20%
+  Resumo: Detectada instabilidade política em 431 de 716 artigos (60.2%). Principais indicadores: ["Palavra-chave 'confronto' encontrada (categoria: conflitos)", "Palavra-chave 'disputa' encontrada (categoria: conflitos)", "Palavra-chave 'disputa' encontrada (categoria: conflitos)"]
+
+Período 28/08/2022 - 11/09/2022 (736 artigos):
+  Artigos com instabilidade política: 452
+  Artigos com estabilidade: 284
+  Percentual de instabilidade: 61.41%
+  Resumo: Detectada instabilidade política em 452 de 736 artigos (61.4%). Principais indicadores: ["Palavra-chave 'disputa' encontrada (categoria: conflitos)", "Palavra-chave 'disputa' encontrada (categoria: conflitos)", "Palavra-chave 'confronto' encontrada (categoria: conflitos)"]
+
+Período 12/09/2022 - 26/09/2022 (690 artigos):
+  Artigos com instabilidade política: 430
+  Artigos com estabilidade: 260
+  Percentual de instabilidade: 62.32%
+  Resumo: Detectada instabilidade política em 430 de 690 artigos (62.3%). Principais indicadores: ["Palavra-chave 'votação' encontrada (categoria: eleições)", 'Contexto político negativo detectado na análise qualitativa', "Palavra-chave 'insatisfação' encontrada (categoria: protestos)"]
+
+Período 27/09/2022 - 11/10/2022 (831 artigos):
+  Artigos com instabilidade política: 586
+  Artigos com estabilidade: 245
+  Percentual de instabilidade: 70.52%
+  Resumo: Detectada instabilidade política em 586 de 831 artigos (70.5%). Principais indicadores: ["Palavra-chave 'violência' encontrada (categoria: violencia)", "Palavra-chave 'urgente' encontrada (categoria: crises)", "Palavra-chave 'crime' encontrada (categoria: violencia)"]
+
+Período 12/10/2022 - 26/10/2022 (689 artigos):
+  Artigos com instabilidade política: 433
+  Artigos com estabilidade: 256
+  Percentual de instabilidade: 62.84%
+  Resumo: Detectada instabilidade política em 433 de 689 artigos (62.8%). Principais indicadores: ["Palavra-chave 'ataque' encontrada (categoria: violencia)", "Palavra-chave 'golpe' encontrada (categoria: golpes)", "Palavra-chave 'disputa' encontrada (categoria: conflitos)"]
+
+Período 27/10/2022 - 10/11/2022 (744 artigos):
+  Artigos com instabilidade política: 507
+  Artigos com estabilidade: 237
+  Percentual de instabilidade: 68.15%
+  Resumo: Detectada instabilidade política em 507 de 744 artigos (68.1%). Principais indicadores: ["Palavra-chave 'ataque' encontrada (categoria: violencia)", "Palavra-chave 'militar' encontrada (categoria: golpes)", "Palavra-chave 'violência' encontrada (categoria: violencia)"]
+
+Período 11/11/2022 - 25/11/2022 (610 artigos):
+  Artigos com instabilidade política: 363
+  Artigos com estabilidade: 247
+  Percentual de instabilidade: 59.51%
+  Resumo: Detectada instabilidade política em 363 de 610 artigos (59.5%). Principais indicadores: ["Palavra-chave 'mudança' encontrada (categoria: mudanças)", "Palavra-chave 'disputa' encontrada (categoria: conflitos)", 'Contexto político negativo detectado na análise qualitativa']
+
+Período 26/11/2022 - 10/12/2022 (619 artigos):
+  Artigos com instabilidade política: 375
+  Artigos com estabilidade: 244
+  Percentual de instabilidade: 60.58%
+  Resumo: Detectada instabilidade política em 375 de 619 artigos (60.6%). Principais indicadores: ["Palavra-chave 'disputa' encontrada (categoria: conflitos)", "Palavra-chave 'militar' encontrada (categoria: golpes)", "Palavra-chave 'disputa' encontrada (categoria: conflitos)"]
+
+Período 11/12/2022 - 25/12/2022 (612 artigos):
+  Artigos com instabilidade política: 376
+  Artigos com estabilidade: 236
+  Percentual de instabilidade: 61.44%
+  Resumo: Detectada instabilidade política em 376 de 612 artigos (61.4%). Principais indicadores: ["Palavra-chave 'crime' encontrada (categoria: violencia)", "Palavra-chave 'crime' encontrada (categoria: violencia)", "Palavra-chave 'golpe' encontrada (categoria: golpes)"]
+
+Período 26/12/2022 - 09/01/2023 (706 artigos):
+  Artigos com instabilidade política: 418
+  Artigos com estabilidade: 288
+  Percentual de instabilidade: 59.21%
+  Resumo: Detectada instabilidade política em 418 de 706 artigos (59.2%). Principais indicadores: ["Palavra-chave 'violência' encontrada (categoria: violencia)", "Palavra-chave 'movimento' encontrada (categoria: protestos)", "Palavra-chave 'emergência' encontrada (categoria: crises)"]
+
+Período 10/01/2023 - 24/01/2023 (702 artigos):
+  Artigos com instabilidade política: 437
+  Artigos com estabilidade: 265
+  Percentual de instabilidade: 62.25%
+  Resumo: Detectada instabilidade política em 437 de 702 artigos (62.3%). Principais indicadores: ["Palavra-chave 'golpe' encontrada (categoria: golpes)", "Palavra-chave 'militar' encontrada (categoria: golpes)", "Palavra-chave 'crime' encontrada (categoria: violencia)"]
+
+Período 25/01/2023 - 08/02/2023 (729 artigos):
+  Artigos com instabilidade política: 518
+  Artigos com estabilidade: 211
+  Percentual de instabilidade: 71.06%
+  Resumo: Detectada instabilidade política em 518 de 729 artigos (71.1%). Principais indicadores: ["Palavra-chave 'disputa' encontrada (categoria: conflitos)", "Palavra-chave 'crise' encontrada (categoria: crises)", "Palavra-chave 'legislativo' encontrada (categoria: eleições)"]
+
+Período 09/02/2023 - 23/02/2023 (710 artigos):
+  Artigos com instabilidade política: 452
+  Artigos com estabilidade: 258
+  Percentual de instabilidade: 63.66%
+  Resumo: Detectada instabilidade política em 452 de 710 artigos (63.7%). Principais indicadores: ["Palavra-chave 'crise' encontrada (categoria: crises)", "Palavra-chave 'colapso' encontrada (categoria: crises)", "Palavra-chave 'eleição' encontrada (categoria: eleições)"]
+
+Período 24/02/2023 - 10/03/2023 (665 artigos):
+  Artigos com instabilidade política: 411
+  Artigos com estabilidade: 254
+  Percentual de instabilidade: 61.80%
+  Resumo: Detectada instabilidade política em 411 de 665 artigos (61.8%). Principais indicadores: ["Palavra-chave 'militar' encontrada (categoria: golpes)", "Palavra-chave 'movimento' encontrada (categoria: protestos)", "Palavra-chave 'reforma' encontrada (categoria: mudanças)"]
+
+Período 11/03/2023 - 25/03/2023 (665 artigos):
+  Artigos com instabilidade política: 481
+  Artigos com estabilidade: 184
+  Percentual de instabilidade: 72.33%
+  Resumo: Detectada instabilidade política em 481 de 665 artigos (72.3%). Principais indicadores: ["Palavra-chave 'confronto' encontrada (categoria: conflitos)", "Palavra-chave 'disputa' encontrada (categoria: conflitos)", "Palavra-chave 'confronto' encontrada (categoria: conflitos)"]
+
+Período 26/03/2023 - 09/04/2023 (589 artigos):
+  Artigos com instabilidade política: 406
+  Artigos com estabilidade: 183
+  Percentual de instabilidade: 68.93%
+  Resumo: Detectada instabilidade política em 406 de 589 artigos (68.9%). Principais indicadores: ["Palavra-chave 'emergência' encontrada (categoria: crises)", "Palavra-chave 'emergência' encontrada (categoria: crises)", "Palavra-chave 'militar' encontrada (categoria: golpes)"]
+
+Período 10/04/2023 - 24/04/2023 (636 artigos):
+  Artigos com instabilidade política: 471
+  Artigos com estabilidade: 165
+  Percentual de instabilidade: 74.06%
+  Resumo: Detectada instabilidade política em 471 de 636 artigos (74.1%). Principais indicadores: ["Palavra-chave 'disputa' encontrada (categoria: conflitos)", "Palavra-chave 'militar' encontrada (categoria: golpes)", "Palavra-chave 'movimento' encontrada (categoria: protestos)"]
+
+Período 25/04/2023 - 09/05/2023 (697 artigos):
+  Artigos com instabilidade política: 482
+  Artigos com estabilidade: 215
+  Percentual de instabilidade: 69.15%
+  Resumo: Detectada instabilidade política em 482 de 697 artigos (69.2%). Principais indicadores: ["Palavra-chave 'disputa' encontrada (categoria: conflitos)", "Palavra-chave 'parlamentar' encontrada (categoria: governabilidade)", "Palavra-chave 'militar' encontrada (categoria: golpes)"]
+
+Período 10/05/2023 - 24/05/2023 (680 artigos):
+  Artigos com instabilidade política: 472
+  Artigos com estabilidade: 208
+  Percentual de instabilidade: 69.41%
+  Resumo: Detectada instabilidade política em 472 de 680 artigos (69.4%). Principais indicadores: ["Palavra-chave 'crise' encontrada (categoria: crises)", "Palavra-chave 'militar' encontrada (categoria: golpes)", "Palavra-chave 'golpe' encontrada (categoria: golpes)"]
+
+Período 25/05/2023 - 08/06/2023 (644 artigos):
+  Artigos com instabilidade política: 467
+  Artigos com estabilidade: 177
+  Percentual de instabilidade: 72.52%
+  Resumo: Detectada instabilidade política em 467 de 644 artigos (72.5%). Principais indicadores: ["Palavra-chave 'disputa' encontrada (categoria: conflitos)", "Palavra-chave 'conflito' encontrada (categoria: conflitos)", "Palavra-chave 'incidente' encontrada (categoria: golpes)"]
+
+Período 09/06/2023 - 23/06/2023 (661 artigos):
+  Artigos com instabilidade política: 449
+  Artigos com estabilidade: 212
+  Percentual de instabilidade: 67.93%
+  Resumo: Detectada instabilidade política em 449 de 661 artigos (67.9%). Principais indicadores: ["Palavra-chave 'militar' encontrada (categoria: golpes)", "Palavra-chave 'tensão' encontrada (categoria: conflitos)", "Palavra-chave 'mudança' encontrada (categoria: mudanças)"]
+
+Período 24/06/2023 - 08/07/2023 (668 artigos):
+  Artigos com instabilidade política: 486
+  Artigos com estabilidade: 182
+  Percentual de instabilidade: 72.75%
+  Resumo: Detectada instabilidade política em 486 de 668 artigos (72.8%). Principais indicadores: ["Palavra-chave 'confronto' encontrada (categoria: conflitos)", "Palavra-chave 'militar' encontrada (categoria: golpes)", "Palavra-chave 'disputa' encontrada (categoria: conflitos)"]
+
+Período 09/07/2023 - 23/07/2023 (588 artigos):
+  Artigos com instabilidade política: 416
+  Artigos com estabilidade: 172
+  Percentual de instabilidade: 70.75%
+  Resumo: Detectada instabilidade política em 416 de 588 artigos (70.7%). Principais indicadores: ["Palavra-chave 'disputa' encontrada (categoria: conflitos)", "Palavra-chave 'parlamentar' encontrada (categoria: governabilidade)", "Palavra-chave 'ataque' encontrada (categoria: violencia)"]
+
+Período 24/07/2023 - 07/08/2023 (703 artigos):
+  Artigos com instabilidade política: 478
+  Artigos com estabilidade: 225
+  Percentual de instabilidade: 67.99%
+  Resumo: Detectada instabilidade política em 478 de 703 artigos (68.0%). Principais indicadores: ["Palavra-chave 'militar' encontrada (categoria: golpes)", "Palavra-chave 'movimento' encontrada (categoria: protestos)", "Palavra-chave 'embate' encontrada (categoria: conflitos)"]
+
+Período 08/08/2023 - 22/08/2023 (714 artigos):
+  Artigos com instabilidade política: 530
+  Artigos com estabilidade: 184
+  Percentual de instabilidade: 74.23%
+  Resumo: Detectada instabilidade política em 530 de 714 artigos (74.2%). Principais indicadores: ["Palavra-chave 'disputa' encontrada (categoria: conflitos)", "Palavra-chave 'parlamentar' encontrada (categoria: governabilidade)", "Palavra-chave 'choque' encontrada (categoria: conflitos)"]
+
+Período 23/08/2023 - 06/09/2023 (750 artigos):
+  Artigos com instabilidade política: 508
+  Artigos com estabilidade: 242
+  Percentual de instabilidade: 67.73%
+  Resumo: Detectada instabilidade política em 508 de 750 artigos (67.7%). Principais indicadores: ["Palavra-chave 'disputa' encontrada (categoria: conflitos)", "Palavra-chave 'crise' encontrada (categoria: crises)", "Palavra-chave 'disputa' encontrada (categoria: conflitos)"]
+
+Período 07/09/2023 - 21/09/2023 (664 artigos):
+  Artigos com instabilidade política: 447
+  Artigos com estabilidade: 217
+  Percentual de instabilidade: 67.32%
+  Resumo: Detectada instabilidade política em 447 de 664 artigos (67.3%). Principais indicadores: ["Palavra-chave 'militar' encontrada (categoria: golpes)", "Palavra-chave 'embate' encontrada (categoria: conflitos)", "Palavra-chave 'golpe' encontrada (categoria: golpes)"]
+
+Período 22/09/2023 - 06/10/2023 (685 artigos):
+  Artigos com instabilidade política: 505
+  Artigos com estabilidade: 180
+  Percentual de instabilidade: 73.72%
+  Resumo: Detectada instabilidade política em 505 de 685 artigos (73.7%). Principais indicadores: ["Palavra-chave 'confronto' encontrada (categoria: conflitos)", "Palavra-chave 'movimento' encontrada (categoria: protestos)", "Palavra-chave 'militar' encontrada (categoria: golpes)"]
+
+Período 07/10/2023 - 21/10/2023 (629 artigos):
+  Artigos com instabilidade política: 482
+  Artigos com estabilidade: 147
+  Percentual de instabilidade: 76.63%
+  Resumo: Detectada instabilidade política em 482 de 629 artigos (76.6%). Principais indicadores: ["Palavra-chave 'conflito' encontrada (categoria: conflitos)", "Palavra-chave 'militar' encontrada (categoria: golpes)", "Palavra-chave 'emergência' encontrada (categoria: crises)"]
+
+Período 22/10/2023 - 05/11/2023 (623 artigos):
+  Artigos com instabilidade política: 466
+  Artigos com estabilidade: 157
+  Percentual de instabilidade: 74.80%
+  Resumo: Detectada instabilidade política em 466 de 623 artigos (74.8%). Principais indicadores: ["Palavra-chave 'conflito' encontrada (categoria: conflitos)", "Palavra-chave 'mudança' encontrada (categoria: mudanças)", "Palavra-chave 'crise' encontrada (categoria: crises)"]
+
+Período 06/11/2023 - 20/11/2023 (643 artigos):
+  Artigos com instabilidade política: 446
+  Artigos com estabilidade: 197
+  Percentual de instabilidade: 69.36%
+  Resumo: Detectada instabilidade política em 446 de 643 artigos (69.4%). Principais indicadores: ["Palavra-chave 'violência' encontrada (categoria: violencia)", "Palavra-chave 'tensão' encontrada (categoria: conflitos)", "Palavra-chave 'movimento' encontrada (categoria: protestos)"]
+
+Período 21/11/2023 - 05/12/2023 (663 artigos):
+  Artigos com instabilidade política: 462
+  Artigos com estabilidade: 201
+  Percentual de instabilidade: 69.68%
+  Resumo: Detectada instabilidade política em 462 de 663 artigos (69.7%). Principais indicadores: ["Palavra-chave 'disputa' encontrada (categoria: conflitos)", "Palavra-chave 'manifestação' encontrada (categoria: protestos)", "Palavra-chave 'disputa' encontrada (categoria: conflitos)"]
+
+Período 06/12/2023 - 20/12/2023 (682 artigos):
+  Artigos com instabilidade política: 504
+  Artigos com estabilidade: 178
+  Percentual de instabilidade: 73.90%
+  Resumo: Detectada instabilidade política em 504 de 682 artigos (73.9%). Principais indicadores: ["Palavra-chave 'violência' encontrada (categoria: violencia)", "Palavra-chave 'conflito' encontrada (categoria: conflitos)", "Palavra-chave 'crise' encontrada (categoria: crises)"]
+
+Período 21/12/2023 - 04/01/2024 (479 artigos):
+  Artigos com instabilidade política: 333
+  Artigos com estabilidade: 146
+  Percentual de instabilidade: 69.52%
+  Resumo: Detectada instabilidade política em 333 de 479 artigos (69.5%). Principais indicadores: ["Palavra-chave 'crise' encontrada (categoria: crises)", "Palavra-chave 'parlamentar' encontrada (categoria: governabilidade)", "Palavra-chave 'reforma' encontrada (categoria: mudanças)"]
+
+Período 05/01/2024 - 19/01/2024 (603 artigos):
+  Artigos com instabilidade política: 402
+  Artigos com estabilidade: 201
+  Percentual de instabilidade: 66.67%
+  Resumo: Detectada instabilidade política em 402 de 603 artigos (66.7%). Principais indicadores: ["Palavra-chave 'militar' encontrada (categoria: golpes)", "Palavra-chave 'emergência' encontrada (categoria: crises)", "Palavra-chave 'manifestação' encontrada (categoria: protestos)"]
+
+Período 20/01/2024 - 03/02/2024 (616 artigos):
+  Artigos com instabilidade política: 391
+  Artigos com estabilidade: 225
+  Percentual de instabilidade: 63.47%
+  Resumo: Detectada instabilidade política em 391 de 616 artigos (63.5%). Principais indicadores: ["Palavra-chave 'protesto' encontrada (categoria: protestos)", "Palavra-chave 'conflito' encontrada (categoria: conflitos)", "Palavra-chave 'urgente' encontrada (categoria: crises)"]
+
+Período 04/02/2024 - 18/02/2024 (614 artigos):
+  Artigos com instabilidade política: 406
+  Artigos com estabilidade: 208
+  Percentual de instabilidade: 66.12%
+  Resumo: Detectada instabilidade política em 406 de 614 artigos (66.1%). Principais indicadores: ["Palavra-chave 'confronto' encontrada (categoria: conflitos)", "Palavra-chave 'confronto' encontrada (categoria: conflitos)", "Palavra-chave 'emergência' encontrada (categoria: crises)"]
+
+Período 19/02/2024 - 04/03/2024 (699 artigos):
+  Artigos com instabilidade política: 476
+  Artigos com estabilidade: 223
+  Percentual de instabilidade: 68.10%
+  Resumo: Detectada instabilidade política em 476 de 699 artigos (68.1%). Principais indicadores: ["Palavra-chave 'crise' encontrada (categoria: crises)", "Palavra-chave 'impasse' encontrada (categoria: governabilidade)", "Palavra-chave 'golpe' encontrada (categoria: golpes)"]
+
+Período 05/03/2024 - 19/03/2024 (644 artigos):
+  Artigos com instabilidade política: 476
+  Artigos com estabilidade: 168
+  Percentual de instabilidade: 73.91%
+  Resumo: Detectada instabilidade política em 476 de 644 artigos (73.9%). Principais indicadores: ["Palavra-chave 'emergência' encontrada (categoria: crises)", "Palavra-chave 'reforma' encontrada (categoria: mudanças)", "Palavra-chave 'eleição' encontrada (categoria: eleições)"]
+
+Período 20/03/2024 - 03/04/2024 (624 artigos):
+  Artigos com instabilidade política: 456
+  Artigos com estabilidade: 168
+  Percentual de instabilidade: 73.08%
+  Resumo: Detectada instabilidade política em 456 de 624 artigos (73.1%). Principais indicadores: ["Palavra-chave 'disputa' encontrada (categoria: conflitos)", "Palavra-chave 'parlamentar' encontrada (categoria: governabilidade)", "Palavra-chave 'intervenção' encontrada (categoria: golpes)"]
+
+Período 04/04/2024 - 18/04/2024 (668 artigos):
+  Artigos com instabilidade política: 475
+  Artigos com estabilidade: 193
+  Percentual de instabilidade: 71.11%
+  Resumo: Detectada instabilidade política em 475 de 668 artigos (71.1%). Principais indicadores: ["Palavra-chave 'disputa' encontrada (categoria: conflitos)", "Palavra-chave 'parlamentar' encontrada (categoria: governabilidade)", "Palavra-chave 'crime' encontrada (categoria: violencia)"]
+
+Período 19/04/2024 - 03/05/2024 (684 artigos):
+  Artigos com instabilidade política: 481
+  Artigos com estabilidade: 203
+  Percentual de instabilidade: 70.32%
+  Resumo: Detectada instabilidade política em 481 de 684 artigos (70.3%). Principais indicadores: ["Palavra-chave 'conflito' encontrada (categoria: conflitos)", "Palavra-chave 'ataque' encontrada (categoria: violencia)", "Palavra-chave 'crise' encontrada (categoria: crises)"]
+
+Período 04/05/2024 - 18/05/2024 (745 artigos):
+  Artigos com instabilidade política: 478
+  Artigos com estabilidade: 267
+  Percentual de instabilidade: 64.16%
+  Resumo: Detectada instabilidade política em 478 de 745 artigos (64.2%). Principais indicadores: ['Contexto político negativo detectado na análise qualitativa', "Palavra-chave 'crise' encontrada (categoria: crises)", "Palavra-chave 'protesto' encontrada (categoria: protestos)"]
+
+Período 19/05/2024 - 02/06/2024 (660 artigos):
+  Artigos com instabilidade política: 456
+  Artigos com estabilidade: 204
+  Percentual de instabilidade: 69.09%
+  Resumo: Detectada instabilidade política em 456 de 660 artigos (69.1%). Principais indicadores: ["Palavra-chave 'disputa' encontrada (categoria: conflitos)", "Palavra-chave 'crise' encontrada (categoria: crises)", "Palavra-chave 'reforma' encontrada (categoria: mudanças)"]
+
+Período 03/06/2024 - 17/06/2024 (687 artigos):
+  Artigos com instabilidade política: 474
+  Artigos com estabilidade: 213
+  Percentual de instabilidade: 69.00%
+  Resumo: Detectada instabilidade política em 474 de 687 artigos (69.0%). Principais indicadores: ["Palavra-chave 'tensão' encontrada (categoria: conflitos)", "Palavra-chave 'crise' encontrada (categoria: crises)", "Palavra-chave 'militar' encontrada (categoria: golpes)"]
+
+Período 18/06/2024 - 02/07/2024 (697 artigos):
+  Artigos com instabilidade política: 469
+  Artigos com estabilidade: 228
+  Percentual de instabilidade: 67.29%
+  Resumo: Detectada instabilidade política em 469 de 697 artigos (67.3%). Principais indicadores: ["Palavra-chave 'militar' encontrada (categoria: golpes)", "Palavra-chave 'mudança' encontrada (categoria: mudanças)", "Palavra-chave 'violência' encontrada (categoria: violencia)"]
+
+Período 03/07/2024 - 17/07/2024 (617 artigos):
+  Artigos com instabilidade política: 441
+  Artigos com estabilidade: 176
+  Percentual de instabilidade: 71.47%
+  Resumo: Detectada instabilidade política em 441 de 617 artigos (71.5%). Principais indicadores: ["Palavra-chave 'confronto' encontrada (categoria: conflitos)", "Palavra-chave 'golpe' encontrada (categoria: golpes)", 'Contexto político negativo detectado na análise qualitativa']
+
+Período 18/07/2024 - 01/08/2024 (611 artigos):
+  Artigos com instabilidade política: 428
+  Artigos com estabilidade: 183
+  Percentual de instabilidade: 70.05%
+  Resumo: Detectada instabilidade política em 428 de 611 artigos (70.0%). Principais indicadores: ["Palavra-chave 'movimento' encontrada (categoria: protestos)", "Palavra-chave 'terrorismo' encontrada (categoria: violencia)", "Palavra-chave 'mudança' encontrada (categoria: mudanças)"]
+
+Período 02/08/2024 - 16/08/2024 (668 artigos):
+  Artigos com instabilidade política: 467
+  Artigos com estabilidade: 201
+  Percentual de instabilidade: 69.91%
+  Resumo: Detectada instabilidade política em 467 de 668 artigos (69.9%). Principais indicadores: ["Palavra-chave 'emergência' encontrada (categoria: crises)", "Palavra-chave 'militar' encontrada (categoria: golpes)", "Palavra-chave 'parlamentar' encontrada (categoria: governabilidade)"]
+
+Período 17/08/2024 - 31/08/2024 (472 artigos):
+  Artigos com instabilidade política: 340
+  Artigos com estabilidade: 132
+  Percentual de instabilidade: 72.03%
+  Resumo: Detectada instabilidade política em 340 de 472 artigos (72.0%). Principais indicadores: ["Palavra-chave 'crise' encontrada (categoria: crises)", "Palavra-chave 'mudança' encontrada (categoria: mudanças)", "Palavra-chave 'militar' encontrada (categoria: golpes)"]
+
+Período 16/09/2024 - 30/09/2024 (309 artigos):
+  Artigos com instabilidade política: 201
+  Artigos com estabilidade: 108
+  Percentual de instabilidade: 65.05%
+  Resumo: Detectada instabilidade política em 201 de 309 artigos (65.0%). Principais indicadores: ["Palavra-chave 'militar' encontrada (categoria: golpes)", "Palavra-chave 'crise' encontrada (categoria: crises)", "Palavra-chave 'parlamentar' encontrada (categoria: governabilidade)"]
+
+Período 01/10/2024 - 15/10/2024 (541 artigos):
+  Artigos com instabilidade política: 405
+  Artigos com estabilidade: 136
+  Percentual de instabilidade: 74.86%
+  Resumo: Detectada instabilidade política em 405 de 541 artigos (74.9%). Principais indicadores: ["Palavra-chave 'reforma' encontrada (categoria: mudanças)", "Palavra-chave 'choque' encontrada (categoria: conflitos)", "Palavra-chave 'crise' encontrada (categoria: crises)"]
+
+Período 16/10/2024 - 30/10/2024 (703 artigos):
+  Artigos com instabilidade política: 509
+  Artigos com estabilidade: 194
+  Percentual de instabilidade: 72.40%
+  Resumo: Detectada instabilidade política em 509 de 703 artigos (72.4%). Principais indicadores: ["Palavra-chave 'presidencial' encontrada (categoria: eleições)", "Palavra-chave 'urgente' encontrada (categoria: crises)", "Palavra-chave 'disputa' encontrada (categoria: conflitos)"]
+
+Período 31/10/2024 - 14/11/2024 (288 artigos):
+  Artigos com instabilidade política: 187
+  Artigos com estabilidade: 101
+  Percentual de instabilidade: 64.93%
+  Resumo: Detectada instabilidade política em 187 de 288 artigos (64.9%). Principais indicadores: ["Palavra-chave 'golpe' encontrada (categoria: golpes)", "Palavra-chave 'crise' encontrada (categoria: crises)", "Palavra-chave 'crise' encontrada (categoria: crises)"]
